@@ -5,7 +5,7 @@
   <samp>
     <p align="center">
     </a>
-    <br/>Im working on a project called galaxyhub, you can find it <a href = "https://beta.music.apple.com/library/playlist/p.06aWgvxu0174GZ9">here!</a>
+    <br/>Im working on a project called galaxyhub, you can find it <a href = "https://discord.gg/a7Negp9gnt">here!</a>
     </p>
 
 
